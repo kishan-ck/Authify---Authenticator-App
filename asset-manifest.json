@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/Authify-Authenticator-App/static/css/main.5973bd9e.css",
-    "main.js": "/Authify-Authenticator-App/static/js/main.4109b05a.js",
+    "main.js": "/Authify-Authenticator-App/static/js/main.b1db9c91.js",
     "static/js/453.32d4b711.chunk.js": "/Authify-Authenticator-App/static/js/453.32d4b711.chunk.js",
     "static/media/facebook.png": "/Authify-Authenticator-App/static/media/facebook.024ddc1176c2527fecf8.png",
     "static/media/snapchat.png": "/Authify-Authenticator-App/static/media/snapchat.039f06dffcfe0f25fbf1.png",
@@ -19,11 +19,11 @@
     "index.html": "/Authify-Authenticator-App/index.html",
     "static/media/facebook.svg": "/Authify-Authenticator-App/static/media/facebook.22d5e33c85b7691bd69150ce20e2d12b.svg",
     "main.5973bd9e.css.map": "/Authify-Authenticator-App/static/css/main.5973bd9e.css.map",
-    "main.4109b05a.js.map": "/Authify-Authenticator-App/static/js/main.4109b05a.js.map",
+    "main.b1db9c91.js.map": "/Authify-Authenticator-App/static/js/main.b1db9c91.js.map",
     "453.32d4b711.chunk.js.map": "/Authify-Authenticator-App/static/js/453.32d4b711.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.5973bd9e.css",
-    "static/js/main.4109b05a.js"
+    "static/js/main.b1db9c91.js"
   ]
 }
